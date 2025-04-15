@@ -1,0 +1,10 @@
+{
+  "name": "vectorize-mcp-server",
+  "version": "0.1.0",
+  "description": "Official Vectorize MCP Server",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
