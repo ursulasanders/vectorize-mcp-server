@@ -7,3 +7,4 @@ dist/
 build/
 .cache/
 coverage/
+.pytest_cache/
