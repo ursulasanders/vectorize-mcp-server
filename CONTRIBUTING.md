@@ -16,3 +16,4 @@ Notes and usage details for vectorize-mcp-server.
 - link the usage section
 - clarify the setup steps
 - link the usage section
+- clarify the setup steps
