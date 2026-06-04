@@ -30,3 +30,4 @@ Notes and usage details for vectorize-mcp-server.
 - fix a small wording issue
 - link the usage section
 - clarify the setup steps
+- clarify the setup steps
