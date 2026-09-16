@@ -1,6 +1,6 @@
 {
   "name": "vectorize-mcp-server",
-  "version": "0.1.46",
+  "version": "0.1.47",
   "description": "Official Vectorize MCP Server",
   "main": "src/index.ts",
   "scripts": {
